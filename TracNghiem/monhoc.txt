@@ -1,0 +1,277 @@
+*
+INT1304|Cau Truc Du Lieu Va Giai Thuat|21
+2|0
+Bo Nho Ram Va Rom La Bo Nho Gi?
+Primary menory
+Receive memory
+Secondary memory
+Random access memory
+A
+3|1
+Danh Sach Cac Muc Chon Trong Thuc Don Goi La:
+Menu Pad
+Menu Options
+Menu Bar
+Tat Ca Deu Sai
+C
+4|1
+Cong Dung Cua Phim Print Screen La Gi?
+In Ra May In
+Khong Co Cong Dung Gi
+In Van Ban
+Chup Man Hinh
+D
+5|1
+Muon Lam Cho Cua So Nho Hon,Su Dung Nut Nao?
+Maximum
+Minimum
+Restore Down
+Close
+C
+6|1
+Cong Dung Cua To Hop Phim Ctrl-S La Gi?
+Tao Van Ban Moi
+Thay The Noi Dung
+Dinh Dang Chu Hoa
+Luu Noi Dung Vao Dia
+D
+7|1
+Chen Ki Tu Dac Biet Vao Van Ban Ta Chon?
+View - SymBol
+Format - Symbol
+Tools - Symbol
+Insert - Symbol
+D
+8|1
+Phat bieu nao sau day la dung:
+INTR la tin hieu cung chan duoc
+INTR la tin hieu ngat mem
+INTR la tin hieu cung khong chan duoc
+INTR la mot tin hieu ngat ngoai le
+A
+9|1
+Cho den nay, may tinh da phat trien qua:
+5 the he
+4 the he
+3 the he
+2 the he
+B
+10|1
+Tin hieu dieu khien HOLD la tin hieu:
+CPU tra loi chap nhan ngat
+CPU gui ra ngoai xin dung bus
+Tu ben ngoai gui den CPU xin dung bus
+Tu ben ngoai gui den CPU tra loi khong dung bus
+C
+11|1
+Co may cach khai bao danh sach tuyen tinh
+1
+2
+3
+4
+C
+12|1
+SQL la ten viet tat cua:
+Structure Query Language
+Query Structure Language
+Structure Question Language
+Structure Query Locator
+A
+13|1
+Cau truc du lieu nao tuong ung voi LIFO
+Queue
+Linked List 
+Tree 
+Stack 
+D
+14|0
+Lua chon cau dung nhat ve danh sach lien ket doi:
+Co 02 moi lien ket voi 01 phan tu khac trong danh sach.
+Co 01 moi lien ket voi 02 phan tu khac trong danh sach
+Co 02 moi lien ket voi 02 truoc va sau no trong danh sach.
+Co 02 moi lien ket voi phan tu dau va cuoi cua danh sach.
+C
+15|1
+Cac phep toan gop nhom duoc su dung sau menh de?
+SELECT
+FROM
+WHERE
+GROUP BY
+D
+16|0
+Cau truc du lieu mang co cac uu diem nao:
+Viec them bot cac phan tu trong danh sach dac 
+Viec truy xuat va tim kiem cac phan tu cua mang la de dang.
+Mat do su dung bo nho cua mang la toi uu.
+Cau A, B, C deu dung.
+D
+17|1
+Lua chon dinh nghia ve danh sach dung nhat:
+Danh sach la tap hop cac phan tu co kieu du lieu xac dinh
+So phan tu cua danh sach goi la chieu dai cua danh sach.
+Mot danh sach co chieu dai bang 0 la mot danh sach rong.
+Tat ca deu dung.
+D
+18|1
+Cac hoat dong cua may tinh gom:
+Ngat, giai ma lenh, vao/ra
+Xu ly so lieu, ngat, thuc hien chuong trinh
+Thuc hien chuong trinh, ngat, vao/ra
+Tinh toan ket qua, luu tru du lieu, vao/ra
+C
+19|1
+Moi quan he giua cau truc du lieu va giai thuat co the minh hoa:
+Cau truc du lieu + Giai thuat = Chuong trinh.
+Cau truc du lieu + Chuong trinh =  Giai thuat
+Chuong trinh + Giai thuat = Cau truc du lieu.
+Cau truc du lieu = Chuong trinh.
+A
+20|0
+Co bao nhieu cach them 1 phan tu vao danh sach lien ket don?
+1
+2
+3
+4
+C
+21|1
+Truong khoa chinh la truong:
+Single key
+Unique Key
+First Key
+Primary Key
+D
+22|0
+May tinh ENIAC la may tinh:
+Do Bo giao duc My dat hang
+La may tinh ra doi vam nhung nam 1970
+Dung vi mach co nho va co vua
+La may tinh dau tien tren the gioi
+D
+*
+INT0965|Lap Trinh Huong Doi Tuong|0
+*
+ELE1253|Vi Xu Ly|0
+*
+INT0198|Co So Du Lieu|9
+0|0
+Tieu chi nao sau day thuong duoc dung de chon khoa chinh:
+Khoa co it thuoc tinh nhat.
+Khong chua cac thuoc tinh thay doi theo thoi gian.
+Khoa bat ki.
+Chi la khoa co mot thuoc tinh
+A
+1|0
+Lien ket giua cac bang dua tren
+Thuoc tinh khoa
+Cac thuoc tinh trung ten nhau giua cac bang
+Y dinh cua nguoi quan trihe CSDL
+Y dinh ghep cac bang thanh mot bang co nhieu thuoc tinh hon
+A
+2|0
+Dau KHONG PHAI la cac buoc xay dung co so du lieu
+Thiet ke
+Khao sat
+Chay thu
+Ky hop dong
+D
+3|0
+Danh sach lien ket don gom nhung thanh phan gi:
+Noi dung va so luong phan tu trong danh sach
+Noi dung cua tung phan tu trong danh sach
+Noi dung cua phan tu va hai con tro giu dia chi cua phan tu truoc sau
+Noi dung cua phan tu va mot con tro giu dia chi cua phan tu tiep theo
+D
+4|0
+Neu A=>B va A=>C thi suy ra:
+A=>BC
+A=>AB
+AB=>BC
+AA=>C
+A
+5|0
+Trong may tinh,ngat NMI la gi
+Ngat ngoai le khong chan duoc
+Ngat mem khong chan duoc
+Ngat cung khong chan duoc
+Ngat mem chan duoc
+C
+6|0
+Uu diem co so du lieu
+Xuat hien di thuong thong tin
+Cac thuoc tinh duoc mo ta trong nhieu tep du lieu khac
+Kha nang xuat hien mau thuan va khong nhat quan du lieu
+Giam du thua, nhat quan va toan ven du lieu
+D
+7|0
+Khong nhat quan du lieu trong luu tru
+Khong xuat hien mau thuan thong tin
+Lam cho du lieu mat di tinh toan ve cua no
+Khong the sua doi, bo sung, cap nhat du lieu
+Co the trien khai tra cuu tim kiem
+B
+8|0
+Phep chon duoc thuc hien sau menh de:
+SELECT
+FROM
+WHERE
+GROUP BY
+A
+*
+ELE1394|Vat Ly Dai Cuong|0
+*
+HAT01923|Xuan Thi|1
+0|0
+Tinh buon khong phai luc nao cung chi de quen di
+Nhe tenh giua trai tim
+Co hanh phuc voi chinh ta
+Co khi buoc khong chung duong vay lai hay
+Tai mua tai nang hay muon niem thuong
+C
+*
+INT0982|Toan Roi Rac|0
+*
+VUS1209|Ky Thuat So|0
+*
+MONL109|Ky Thuat Do Hoa|0
+*
+INT6729|Nhap Mon Cong Nghe Phan Mem|0
+*
+INT8275|Lap Trinh C++|0
+*
+KHAO3947|Tin Hoc Co So 1|4
+0|0
+Dua Con Tro Ve Cuoi Van Ban Ta Su Dung?
+Shift + End
+Alt + End
+Ctrl + End
+Ctrl + Alt + End
+C
+1|0
+Chon Tat Ca Van Ban Trong Word Ta Chon?
+Alt + A
+Ctrl + A
+Ctrl + Shift + A
+Cau 1 va Cau 2
+B
+2|0
+De Chon Mot Doan Van Ban Ta Thuc Hien:
+Click 1 Lan Tren Doan
+Click 2 Lan Tren Doan
+Click 3 Lan Tren Doan
+Click 4 Lan Tren Doan
+C
+3|0
+Trong Word,Muon Danh Dau Lua Chon Mot Tu Ta Chon?
+Nhap Dup Chuot Vao Tu Chon
+Bam To Hop Ctrl-C
+Nhay Chuot Vao Tu Chon
+Bam Phim Enter
+A
+*
+OIU9816|An Toan Bao Mat Thong Tin|0
+*
+UYS1827|Mang May Tinh|0
+*
+PUK8765|Co So Du Lieu Phan Tan|0
+*
+XUD|Xuan Hadv|0

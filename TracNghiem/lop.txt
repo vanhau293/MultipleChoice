@@ -1,0 +1,48 @@
+13
+*
+D18CQCN01|Cong Nghe Thong Tin 1 - Khoa 2018|19
+N18DCCN058,Chau Van,Hau,Nam,290320
+N18DCCN133,Nguyen Thi Thao,Nguyen,Nu,123456
+N18DCCN052,Ngo Thu,Ha,Nam,098732
+N18DCCN082,Nguyen Thi Thanh,Huyen,Nu,827huyen
+N18DCCN092,Tran Pham Quoc,Nghia,Nam,9871abc
+N18DCCN027,Bui Duc,Quy,Nam,987625
+N18DCCN022,Nguyen Do Yen,Chi,Nu,123yenchi
+N18DCCN142,Nguyen Quoc,Nhat,Nam,quocnhat12
+N18DCCN253,Vu Ngan,Yen,Nu,1234578890
+N18DCCN226,Ta Thuong,Thuong,Nu,9876543
+N18DCCN010,Vu Hoang Ky,Anh,Nam,837469
+N18DCCN028,Do Minh,Chien,Nam,092744
+N18DCCN200,Ha Anh,Tuan,Nam,171284
+N18DCCN157,Le Cat Trong,Ly,Nu,9283647
+N18DCCN190,Phan Thi My,Tam,Nu,160181
+N18DCCN050,Ho Thi Ngoc,Ha,Nu,251184
+N18DCCN189,Hoang Thai,Vu,Nam,031095
+N18DCCN040,Luu Thi Phuong,Dung,Nu,150120
+N18DCCN065,Ngo Phi,Hung,Nam,123456
+*
+D18CQCN02|Cong Nghe Thong Tin 2 - Khoa 2018|0
+*
+D18CQPT01|Cong Nghe Da Phuong Tien 1 - Khoa 2018|0
+*
+D18CQQT01|Quan Tri Kinh Doanh 1 - Khoa 2018|0
+*
+D18CQQT02|Quan Tri Kinh Doanh 1 - Khoa 2018|0
+*
+D19CQKT01|Quan Tri Kinh Doanh 1 - Khoa 2019|1
+N19DCKT019,Nguyen Hoang,Tuyen,Nu,123457
+*
+D20CQCN02|Cong Nghe Thong Tin 3 - Khoa 2020|0
+*
+D20CQCN03|Cong Nghe Thong Tin 3 - Khoa 2020|0
+*
+D20CQMK03|Marketing 3 - Khoa 2020|0
+*
+D20CQPT03|Cong Nghe Da Phuong Tien 3 - Khoa 2020|0
+*
+D21CQAN02|An Toan Thong Tin 2 - Khoa 2021|0
+*
+D21CQAT01|An toan Thong Tin 1 - Khoa 2021|1
+N21DCAT098,Nguyen Thi Thuy,Hanh,Nu,1249jf
+*
+D21CQCN03|Cong Nghe Thong Tin 1 - Khoa 2021|0
